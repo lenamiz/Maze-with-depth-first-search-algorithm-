@@ -1,5 +1,5 @@
-# Maze-depthfirst-java
-Simple maze generating program using depth-first search algorithm, implemented in Java. Created for one of my uni classes.
+# Maze-depthfirst
+Simple maze generating program using depth-first search algorithm, implemented in Java. Created for one of my uni classes (algorithms and data structures).
 
 ## General info
 
