@@ -3,7 +3,8 @@ Simple maze generating program using depth-first search algorithm, implemented i
 
 ## General info
 
-This is a pretty simple implementation of generating maze with depth-first search algorithm using backtracking method.
+This is a pretty simple implementation of generating a maze with depth-first search algorithm using backtracking method.
+Project consists of two classes of which _Maze.java_ contains the main method.
 
 Pseudocode (adopted from good old Wikipedia):
 
